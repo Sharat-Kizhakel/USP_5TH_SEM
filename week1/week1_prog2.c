@@ -1,3 +1,4 @@
+//Find no of pos and neg nos and zeros 
 #include<stdio.h>
 int main()
 {

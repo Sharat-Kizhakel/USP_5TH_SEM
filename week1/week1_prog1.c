@@ -1,3 +1,4 @@
+//Find sum of odd and even indices values
 #include<stdio.h>
 int main()
 {
